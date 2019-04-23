@@ -1,0 +1,121 @@
+body{background-color: blueviolet}
+
+h1{font-family:cursive}
+h1{text-align-last: center}
+
+.wkwk{width: 500px;
+    position: relative;
+    margin: auto;}
+.hehe{width: 500px;
+    position: relative;
+    margin: auto;}
+
+.wkwk li{text-align: center;
+    padding:50px;
+    font-size:45px;
+    font-style: italic;
+    font-family:comic Arial, Helvetica, sans-serif;
+    color:black;
+    font-style: oblique;
+    border-radius:100px;
+    border-style: double;
+    border-color: rgb(29, 90, 146);
+    border-width:10px;
+    background-position:center; 
+    background-image: url(../gambar/b2.jpg);
+    padding-left:25px;
+}
+
+.haha p{
+    text-align: center;
+    padding:50px;
+    font-size:45px;
+    font-style: italic;
+    font-family:comic Arial, Helvetica, sans-serif;
+    color:black;
+    font-style: oblique;
+    border-radius:100px;
+    border-style: double;
+    border-color: rgb(29, 90, 146);
+    border-width:10px;
+    background-position:center; 
+    background-image: url(../gambar/c3.jpg);}
+}
+
+
+
+.wkwk h2{padding:10px;
+    font-size:45px;
+    font-style: italic;
+    font-family:comic Arial, Helvetica, sans-serif;
+    color: rgb(29, 90, 146);
+    font-style: oblique;
+    border-radius:100px;
+    border-style: double;
+    border-color: black;
+    background-color: whitesmoke;
+    border-width:10px;
+    text-align: center;
+    color: rgb(29, 90, 146)e;
+   
+}
+.wkwk input[id="s1"]{
+    background-color: rgb(46, 238, 20);
+    color: black;
+    padding: 15px 15px;
+    text-align: center;
+    font-size: 15px;
+    }
+
+.wkwk input[id="s2"]{
+        background-color: red;
+        color: black;
+        padding: 15px 45px;
+        text-align: center;
+        font-size: 15px;
+    }
+
+.wkwk ul{
+    list-style-image: url(../gambar/chekbox.jpg);
+}
+.wkwk li{
+    padding-bottom:5px;
+    border-bottom: dotted;
+    }
+
+form {    border-style: dotted;}
+
+.ayee div{
+    padding-bottom: 15px;
+    border-radius: 15px;
+
+}
+
+.ayee label{    
+    display: block;
+}
+.ayee input{
+    padding: 10px;
+    width: 15px 25px;
+}
+
+.ayee select{
+    padding: 10px;
+    width: 15px 25px;
+}
+
+h4{
+
+    color: antiquewhite;
+    border-style: dotted;
+    border-left-width: -500px;
+    border-width: 50%;
+
+}
+
+.yes input[type="submit"]{
+    background-color: black;
+    color: bisque;
+    padding: 15px 15px;
+
+}
